@@ -13,7 +13,7 @@
 
 🔹 [03 - Networking and Firewalls](03:networking-and-firewalls/README.md)
 
-🔹 [04 - Cloud Armor](04: cloud-armor/README.md)
+🔹 [04 - Cloud Armor](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/04%3A%20Cloud%20Armor)
 
 🔹 [05 - Security Command Center](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/05%3A%20Security%20Command%20Center)
 
