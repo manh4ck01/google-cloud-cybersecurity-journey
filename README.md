@@ -9,7 +9,7 @@
 
 🔹 [01 - Introduction to Cloud Security](01-introduction-to-cloud-security/README.md)
 
-🔹 [02 - IAM and Access Management](02: iam-and-access-management/README.md)
+🔹 [02 - IAM and Access Management](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/02%3A%20IAM%20and%20Access%20Management)
 
 🔹 [03 - Networking and Firewalls](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/03%3A%20Networking%20and%20Firewalls)
 
