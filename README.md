@@ -29,7 +29,7 @@
 
 Jump directly to important resources:
 
-- 🎓 **Google Cloud Cybersecurity Certificate (Coursera)**: [View Certificate](https://www.coursera.org/professional-certificates/google-cloud-cybersecurity)  
+- 🎓 **Google Cloud Cybersecurity Certificate (Coursera)**: [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/8XVYN7HYCJ7X)  
 - 💻 **Security Engineer Learning Path (Path 15, Skills Boost)**: [View Labs](https://www.cloudskillsboost.google/paths/15)  
 - 🧪 **Hands-On Labs (Cloud Skills Boost Path 419)**: [View Labs](https://www.cloudskillsboost.google/paths/419)  
 - 🌐 **Google Cloud Public Profile**: [Coming Soon]
@@ -39,7 +39,7 @@ Jump directly to important resources:
 ### 🌩️ Overview
 
 Welcome to my **Google Cloud Cybersecurity Journey** — a hands-on portfolio documenting my progress through the  
-🎓 [**Google Cloud Cybersecurity Certificate**](https://www.coursera.org/professional-certificates/google-cloud-cybersecurity) and the complementary [**Security Engineer Learning Path (Path 15)**](https://www.cloudskillsboost.google/paths/15) on **Google Cloud Skills Boost**.
+🎓 [**Google Cloud Cybersecurity Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/certificate/8XVYN7HYCJ7X) and the complementary [**Security Engineer Learning Path (Path 15)**](https://www.cloudskillsboost.google/paths/15) on **Google Cloud Skills Boost**.
 
 This repository is more than coursework — it’s my growing collection of **projects, labs, notes, and applied security concepts** built entirely in real Google Cloud environments.
 
@@ -162,9 +162,8 @@ This repository focuses on **concept clarity** and **security design thinking**.
 
 | Platform | Achievement | Badge |
 |-----------|--------------|--------|
-| Coursera | Google Cloud Cybersecurity Certificate | *(Coming Soon)* |
+| Coursera | Google Cloud Cybersecurity Certificate | *[View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/8XVYN7HYCJ7X)* |
 | Cloud Skills Boost | Security Engineer Learning Path (Path 15) | *(In Progress)* |
-| Google Cloud | Qwiklabs Skill Badges (IAM, SCC, Cloud Armor) | *(To be added)* |
 
 ---
 
@@ -198,6 +197,6 @@ You are welcome to reference, fork, or adapt it — just credit the source.
 
 👤 **Andile [@manh4ck01](https://github.com/manh4ck01)**  
 📧 *[andilemakhosisurge@outlook.com](andilemakhosisurge@outlook.com)*  
-🔗 **LinkedIn Profile**: [Makhosi Andile Surge](https://www.linkedin.com/in/andile/)
+🔗 **LinkedIn Profile**: [Makhosi Andile Surge](www.linkedin.com/in/makhosi-andile-surge-8141b1316)
 
 > *“The best way to learn security is to break it safely.”* 🛡️
