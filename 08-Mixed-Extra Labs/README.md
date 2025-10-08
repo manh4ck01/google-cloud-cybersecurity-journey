@@ -5,57 +5,57 @@
 
 ## 🌩️ Overview
 
-This module contains supplemental labs and exercises that combine or extend previous modules, including:
+- This module contains supplemental labs and exercises that combine or extend previous modules, including:
 
-Cross-module integrations (IAM + Networking + Cloud Armor)
+- Cross-module integrations (IAM + Networking + Cloud Armor)
 
-Experimental security configurations
+- Experimental security configurations
 
-Sandbox simulations of real-world attacks and defenses
+- Sandbox simulations of real-world attacks and defenses
 
-Automation experiments with scripts and policies
+- Automation experiments with scripts and policies
 
-It’s designed to showcase my ability to apply multiple GCP security concepts together and think like a practical cloud security engineer.
+- It’s designed to showcase my ability to apply multiple GCP security concepts together and think like a practical cloud security engineer.
 
 ---
 
 ## 🧩 Learning Objectives
 
-Apply knowledge from multiple modules in unified labs
+- Apply knowledge from multiple modules in unified labs
 
-Test and experiment with advanced configurations safely
+- Test and experiment with advanced configurations safely
 
-Understand interdependencies between IAM, networking, and security services
+- Understand interdependencies between IAM, networking, and security services
 
-Build small proof-of-concept security projects
+- Build small proof-of-concept security projects
 
-Document insights, pitfalls, and best practices for real-world scenarios
+- Document insights, pitfalls, and best practices for real-world scenarios
 
 ---
 
 ## 🔧 Hands-On Labs / Exercises
 
-Combine IAM roles with network segmentation and firewall policies
+- Combine IAM roles with network segmentation and firewall policies
 
-Apply Cloud Armor rules to multiple web applications
+- Apply Cloud Armor rules to multiple web applications
 
-Simulate threat detection with Security Command Center
+- Simulate threat detection with Security Command Center
 
-Test logging and monitoring dashboards for end-to-end coverage
+- Test logging and monitoring dashboards for end-to-end coverage
 
-Create mini-projects integrating Terraform or scripts for automation
+- Create mini-projects integrating Terraform or scripts for automation
 
 --- 
 
 ## 📘 Key Concepts
 
-Cross-Service Integration: IAM + Networking + SCC + Cloud Armor
+- Cross-Service Integration: IAM + Networking + SCC + Cloud Armor
 
-Sandbox Testing: Safe experimentation for security configurations
+- Sandbox Testing: Safe experimentation for security configurations
 
-Automation: Scripts, Terraform templates, and deployment policies
+- Automation: Scripts, Terraform templates, and deployment policies
 
-Real-World Scenarios: Simulating attacks and mitigation strategies
+- Real-World Scenarios: Simulating attacks and mitigation strategies
 
 ---
 
@@ -77,8 +77,8 @@ Real-World Scenarios: Simulating attacks and mitigation strategies
 
 ## ✅ Status
 
- Not Started
+ - [ ] Not Started
 
- In Progress
+ - [ ] In Progress
 
- Completed
+ - [ ] Completed
