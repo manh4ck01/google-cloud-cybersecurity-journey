@@ -19,7 +19,7 @@
 
 🔹 [06 - Logging & Monitoring](06: logging-and-monitoring/README.md)
 
-🔹 [07 - Final Project](07: final-project/README.md)
+🔹 [07 - Final Project](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/07%3A%20Final%20Project)
 
 🔹 [08 - Mixed / Extra Labs](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/08-Mixed-Extra%20Labs)
 
