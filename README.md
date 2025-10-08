@@ -21,7 +21,7 @@
 
 🔹 [07 - Final Project](07: final-project/README.md)
 
-🔹 [08 - Mixed / Extra Labs](08-MIXED-EXTRA LABS-README.md)
+🔹 [08 - Mixed / Extra Labs](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/08-Mixed-Extra%20Labs)
 
 ---
 
