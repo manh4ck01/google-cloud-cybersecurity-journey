@@ -9,19 +9,19 @@
 
 🔹 [01 - Introduction to Cloud Security](01-introduction-to-cloud-security/README.md)
 
-🔹 [02 - IAM and Access Management](02:iam-and-access-management/README.md)
+🔹 [02 - IAM and Access Management](02: iam-and-access-management/README.md)
 
 🔹 [03 - Networking and Firewalls](03:networking-and-firewalls/README.md)
 
-🔹 [04 - Cloud Armor](04:cloud-armor/README.md)
+🔹 [04 - Cloud Armor](04: cloud-armor/README.md)
 
-🔹 [05 - Security Command Center](05:security-command-center/README.md)
+🔹 [05 - Security Command Center](05: security-command-center/README.md)
 
-🔹 [06 - Logging & Monitoring](06:logging-and-monitoring/README.md)
+🔹 [06 - Logging & Monitoring](06: logging-and-monitoring/README.md)
 
-🔹 [07 - Final Project](07:final-project/README.md)
+🔹 [07 - Final Project](07: final-project/README.md)
 
-🔹 [08 - Mixed / Extra Labs](08-mixed-extra-labs-README.md)
+🔹 [08 - Mixed / Extra Labs](08-MIXED-EXTRA LABS-README.md)
 
 ---
 
