@@ -11,7 +11,7 @@
 
 🔹 [02 - IAM and Access Management](02: iam-and-access-management/README.md)
 
-🔹 [03 - Networking and Firewalls](03:networking-and-firewalls/README.md)
+🔹 [03 - Networking and Firewalls](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/03%3A%20Networking%20and%20Firewalls)
 
 🔹 [04 - Cloud Armor](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/04%3A%20Cloud%20Armor)
 
