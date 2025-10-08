@@ -67,7 +67,7 @@ This repository is more than coursework — it’s my growing collection of **pr
 | 05 | Security Command Center | Threat detection & compliance | SCC setup, findings triage, remediation | ⏳ |
 | 06 | Logging & Monitoring | SIEM, log sinks, Cloud Logging | Log analysis, monitoring dashboards, alert policies | ⏳ |
 | 07 | Final Project | Comprehensive secure GCP deployment | Design, automate, and secure a full environment | ⏳ |
-
+| 08 | Mixed / Extra Labs| Experimental & cross-module labs | Sandbox experimentation, automation, multi-service integration, creative PoCs | ⏳ |
 ---
 
 ## 🎯 Certificate Path Alignment (Coursera)
@@ -134,6 +134,17 @@ google-cloud-cybersecurity-journey/
 └── 07-final-project/
 ├── README.md
 └── architecture-diagram.png
+|
+└── 08-mixed-extra-labs/
+├── README.md
+├── combined-labs/
+│   ├── lab-1-iam-network.yaml
+│   └── lab-2-cloud-armor-demo.yaml
+├── automation/
+│   ├── scripts/
+│   └── terraform/
+├── notes.md
+└── diagrams/
 ```
 
 
