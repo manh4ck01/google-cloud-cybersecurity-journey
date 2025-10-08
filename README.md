@@ -5,7 +5,7 @@
 
 ---
 
-🌟 Quick Links – Jump to Any Module
+###🌟 Quick Links – Jump to Any Module
 
 🔹 [01 - Introduction to Cloud Security](01-introduction-to-cloud-security/README.md)
 
