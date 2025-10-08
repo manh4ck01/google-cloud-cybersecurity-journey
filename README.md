@@ -5,7 +5,27 @@
 
 ---
 
-### 🌟 Quick Links
+🌟 Quick Links – Jump to Any Module
+
+🔹 [01 - Introduction to Cloud Security](01-introduction-to-cloud-security/README.md)
+
+🔹 [02 - IAM and Access Management]()
+
+🔹 [03 - Networking and Firewalls]()
+
+🔹 [04 - Cloud Armor]()
+
+🔹 [05 - Security Command Center]()
+
+🔹 [06 - Logging & Monitoring]()
+
+🔹 [07 - Final Project]()
+
+🔹 [08 - Mixed / Extra Labs]()
+
+---
+
+### 🌟 External Quick Links
 
 Jump directly to important resources:
 
