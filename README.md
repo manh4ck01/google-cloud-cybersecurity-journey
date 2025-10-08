@@ -21,7 +21,7 @@
 
 🔹 [07 - Final Project](07:final-project/README.md)
 
-🔹 [08 - Mixed / Extra Labs](08-mixed-extra-labs/README.md)
+🔹 [08 - Mixed / Extra Labs](08-mixed-extra-labs-README.md)
 
 ---
 
