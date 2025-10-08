@@ -15,7 +15,7 @@
 
 🔹 [04 - Cloud Armor](04: cloud-armor/README.md)
 
-🔹 [05 - Security Command Center](05: security-command-center/README.md)
+🔹 [05 - Security Command Center](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/05%3A%20Security%20Command%20Center)
 
 🔹 [06 - Logging & Monitoring](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/06%3A%20Logging%20%26%20Monitoring)
 
