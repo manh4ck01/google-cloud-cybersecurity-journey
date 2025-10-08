@@ -1,6 +1,7 @@
-#08 - MIXED/EXTRA LABS
+# 08 - MIXED/EXTRA LABS
 
 > “Experiment, integrate, and innovate — the best learning happens at the intersections.”
+---
 
 ## 🌩️ Overview
 
@@ -14,7 +15,9 @@ Sandbox simulations of real-world attacks and defenses
 
 Automation experiments with scripts and policies
 
-It’s designed to showcase your ability to apply multiple GCP security concepts together and think like a practical cloud security engineer.
+It’s designed to showcase my ability to apply multiple GCP security concepts together and think like a practical cloud security engineer.
+
+---
 
 ## 🧩 Learning Objectives
 
@@ -28,6 +31,8 @@ Build small proof-of-concept security projects
 
 Document insights, pitfalls, and best practices for real-world scenarios
 
+---
+
 ## 🔧 Hands-On Labs / Exercises
 
 Combine IAM roles with network segmentation and firewall policies
@@ -40,6 +45,8 @@ Test logging and monitoring dashboards for end-to-end coverage
 
 Create mini-projects integrating Terraform or scripts for automation
 
+--- 
+
 ## 📘 Key Concepts
 
 Cross-Service Integration: IAM + Networking + SCC + Cloud Armor
@@ -49,6 +56,8 @@ Sandbox Testing: Safe experimentation for security configurations
 Automation: Scripts, Terraform templates, and deployment policies
 
 Real-World Scenarios: Simulating attacks and mitigation strategies
+
+---
 
 ## 📂 Repository Structure
 ```bash
@@ -63,6 +72,8 @@ Real-World Scenarios: Simulating attacks and mitigation strategies
 ├── notes.md
 └── diagrams/
 ```
+
+---
 
 ## ✅ Status
 
