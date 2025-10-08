@@ -17,7 +17,7 @@
 
 🔹 [05 - Security Command Center](05: security-command-center/README.md)
 
-🔹 [06 - Logging & Monitoring](06: logging-and-monitoring/README.md)
+🔹 [06 - Logging & Monitoring](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/06%3A%20Logging%20%26%20Monitoring)
 
 🔹 [07 - Final Project](https://github.com/manh4ck01/google-cloud-cybersecurity-journey/tree/main/07%3A%20Final%20Project)
 
