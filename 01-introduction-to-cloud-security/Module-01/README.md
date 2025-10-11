@@ -121,6 +121,6 @@ This module sets the foundation for understanding how to **secure cloud environm
 
 ---
 
-*Author: Andile*  
+*Author: Makhosi Andile Surge*  
 *Course: Google Cloud Cybersecurity Certificate*  
 *Module: 1 — Introduction to Cloud Computing*
