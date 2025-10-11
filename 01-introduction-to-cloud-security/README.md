@@ -68,9 +68,9 @@ By the end of this module, you will be able to:
 
 ## ✅ Status
 
-- [ ] Not Started  
-- [ ] In Progress  
-- [ ] Completed  
+- ✅ Started  
+- ✅ In Progress  
+- ✅ Completed  
 
 ---
 
